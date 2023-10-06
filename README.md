@@ -1,27 +1,21 @@
 # LoginJavaSpringScreen
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+O Projeto foi gerado utilizando o [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Execute `ng serve` para iniciar a aplicação. Navegue utilizando o end-point `http://localhost:4200/`. A aplicação vai atualizar atuomaticmente com qualquer alteração no código.
 
-## Code scaffolding
+## Escopo do projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Projeto desenvolvido com o objetivo de aumentar minha pool de tecnologias. Dessa vez estou expandido meu conhecimento teórico e prático usando o Angular.
 
-## Build
+O projeto está divídido em dois repositórios, esse contendo o front-end que consiste formulário de login que terá o seu back-end no repositório https://github.com/Diego-World/login-angular-java-spring-api
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Por que Angular?
 
-## Running unit tests
+Acompanhando o mercado para desenvolvedor Java percebi que muitas vagas trabalham em conjunto com o framework Angular e por esse motivo resolvi trabalhar em cima dele, e entender como funciona a conectividade
+com o Java e Spring Framework.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Diego Gouveia, Desenvolvedor Back-end Java e Spring.
+https://www.linkedin.com/in/techdiegogouveia/
